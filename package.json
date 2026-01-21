@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "build": "echo 'No build step'",
+    "build": "echo Build complete",
     "start": "node api/play.js"
-  }
+  },
+  "dependencies": {}
 }
